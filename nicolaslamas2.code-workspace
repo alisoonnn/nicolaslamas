@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "nicolaslamas",
+			"path": "../../epreuve_intégrée/nicolaslamas"
+		}
+	],
+	"settings": {
+		"liveSassCompile.settings.formats": [
+			{
+				"format": "compressed",
+				"extensionName": ".min.css",
+				"savePath": "~/../css/"
+			},
+			{
+				"format": "expanded",
+				"extensionName": ".css",
+				"savePath": "~/../css/"
+			}
+		],
+		"liveServer.settings.port": 5503
+	}
+}
